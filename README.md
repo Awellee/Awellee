@@ -13,10 +13,7 @@
 <div align="left">
 <a href="http://www.github.com/Awellee"><img src="https://github-readme-stats.vercel.app/api?username=Awellee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Awellee's GitHub stats" /></a></div>
 
-
 ## My Skill Set  
-
-
 
 ### Backend  
 <div align="left">  
@@ -33,16 +30,13 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Frontend  
 <div align="left">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
- 
+</div> 
 
-<br/>  
+## Statistics
 
 <div align="left">
 <a href="https://github.com/Awellee" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awellee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
