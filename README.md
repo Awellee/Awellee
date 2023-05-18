@@ -1,6 +1,6 @@
 ![Header](https://github.com/Awellee/Awellee/blob/main/assets/Header.gif)
 
-About me
+## I'm a beginner .NET Core Backend Development
 
 Languages and Tools
 
