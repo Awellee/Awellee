@@ -1,14 +1,12 @@
 <div align="center">
 
-<div>
-
 ![Header](https://github.com/Awellee/Awellee/blob/main/assets/Header.gif)
 
 # I'm a beginner ASP.NET Core Backend Development
 
-
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=Awellee&&style=for-the-badge&logo=appveyor-&color=212828)  
+
+</div>
 
 ## My GitHub Stats
 
@@ -21,7 +19,7 @@
 
 
 ### Backend  
-<div align="center">  
+<div align="left">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -38,7 +36,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
@@ -52,6 +50,4 @@
 
 ### Socials
 
-<p align="center"> <a href="https://discord.com/users/awellee#3951" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
-
-</div>
+<p align="left"> <a href="https://discord.com/users/awellee#3951" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
