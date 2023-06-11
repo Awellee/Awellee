@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/Awellee/Awellee/blob/main/assets/Header.gif)
 
-# I'm a beginner ASP.NET Core Backend Developer!
+# I'm a beginner ASP.NET Backend Developer!
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Awellee&&style=for-the-badge&logo=appveyor-&color=212828)  
 
