@@ -11,7 +11,8 @@
 ## My GitHub Stats
 <!--<div align="left"><a href="http://www.github.com/Awellee"><img src="https://github-readme-stats.vercel.app/api?username=Awellee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Awellee's GitHub stats" align="center" style="width: 100%"/></a></div>  -->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=awellee&show_icons=true&count_private=true&hide_border=true" color=0891b2&text color=ffffff&icon color=0891b2&bg color=1c1917&hide border=true&show icons=true" align="center" style="width: 100%" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Awellee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"  align="center" style="width: 100%" /></div>
 
 ## My Skill Set  
 
