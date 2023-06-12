@@ -8,18 +8,9 @@
 
 </div>
 
-## My GitHub Stats
-<!--<div align="left"><a href="http://www.github.com/Awellee"><img src="https://github-readme-stats.vercel.app/api?username=Awellee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Awellee's GitHub stats" align="center" style="width: 100%"/></a></div>  -->
-<table><tr><td valign="top" width="50%">
+<b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=awellee&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awellee&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
+<a href="http://www.github.com/Awellee"><img src="https://github-readme-stats.vercel.app/api?username=Awellee&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Awellee's GitHub stats" /></a>
 
 ## My Skill Set  
 
